@@ -14,4 +14,4 @@ Ejecuta validaciones completas (ID, contrato y GET) solo cuando la API responde 
 
 Se adjunta evidencia de la respuesta 403 obtenida desde Postman para confirmar que la limitación es externa al código
 
-![alt text](image.png)
+<img width="1062" height="777" alt="image" src="https://github.com/user-attachments/assets/e6d5cf97-ddcb-4de1-8c5f-7213401481f4" />
